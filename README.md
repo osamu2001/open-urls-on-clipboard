@@ -1,2 +1,2 @@
 # open-urls-on-clipboard
-open urls on clipboard every three seconds
+open urls on a clipboard every three seconds
